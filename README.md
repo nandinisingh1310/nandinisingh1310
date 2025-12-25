@@ -79,7 +79,12 @@ I enjoy converting **raw data → insights → decisions**.
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=nandinisingh1310&show_icons=true&theme=default&hide_border=true"
-    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=nandinisingh1310&theme=default&hide_border=true"
   />
 </p>
 
