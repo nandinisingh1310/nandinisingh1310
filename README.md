@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nandini Singh (aka Nanzzzz) 👋</h1>
+<h1 align="center">Hi, I'm Nandini Singh 👋</h1>
 <p align="center"><strong>AI • Data Science • Analytics </strong></p>
 
 <p align="center">
@@ -74,20 +74,20 @@ I enjoy converting **raw data → insights → decisions**.
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Activity Overview
+
+- 🔹 Actively working on **Data Science & AI projects**
+- 🔹 Regular use of **Python, SQL, Power BI, ML libraries**
+- 🔹 Version control & collaboration with **Git & GitHub**
+- 🔹 Continuous learning through **hands-on experimentation**
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=nandinisingh1310&show_icons=true&theme=default&hide_border=true"
-  />
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Data-SQL-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ML-TensorFlow-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Visualization-Power%20BI-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tools-Git%20%26%20GitHub-black?style=for-the-badge">
 </p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=nandinisingh1310&theme=default&hide_border=true"
-  />
-</p>
-
 
 ---
 
