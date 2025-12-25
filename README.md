@@ -1,115 +1,122 @@
 <h1 align="center">I'm Nandini Singh (aka Nanzzzz) 👋</h1>
-<p align="center"><strong>Exploring AI, Data Science, and Everything in Between</strong></p>
+<p align="center"><strong>AI • Data Science • Analytics • Learning in Public</strong></p>
+
+<!-- Profile Visits Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nandinisingh1310&label=Profile%20Visits&color=6A5ACD&style=for-the-badge" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=700&color=6A5ACD&center=true&vCenter=true&width=900&lines=Data+Science+%26+AI+Explorer;Turning+Data+Into+Insights;Machine+Learning+%26+Deep+Learning;Building+Agentic+AI+Systems;Learning+by+Doing+%E2%9C%A8" />
+</p>
 
 ---
 
-## **🚀 Adapt, Learn, Build, Repeat.**
-I’m not just one thing. I’m **learning, experimenting, and figuring it out**—because that’s how growth happens.  
+## 🚀 Adapt • Learn • Build • Repeat
+
+I’m not trying to fit into a single label.
+
+I’m **exploring AI, Data Science, Analytics, and intelligent systems** by working hands-on with data —  
+cleaning it, analyzing it, modeling it, and visualizing it to extract insights that actually matter.
 
 I don’t have all the answers yet.  
 I don’t need to.  
-**Neither do you.**  
+**Progress comes from movement, not certainty.**
 
-🔹 **AI? Maybe.**  
-🔹 **Data Science? Possibly.**  
-🔹 **Something entirely different? Who knows?**  
+💡 Growth over perfection  
+🔥 Curiosity over fear  
+📊 Data over assumptions  
 
-But here’s what I **do know**:  
-💡 **The only way forward is to keep moving.**  
-🔥 **Every failure is just a lesson in disguise.**  
-🚀 **The best time to start was yesterday. The next best time? Right now.**  
-
-✨ **— Nanzzzz 🚀**  
+✨ **— Nanzzzz**
 
 ---
 
-## 🌐 **Connect with Me**
+## 🧠 About Me
+
+- 🎓 **4th Year Computer Science Engineering Student**
+- 📊 Focused on **Data Science, Analytics & Machine Learning**
+- 🤖 Working on **Machine Learning, Deep Learning & Agentic AI projects**
+- 🧹 Strong in **Data Cleaning, Handling & Preprocessing**
+- 📈 Interested in **data-driven decision making & business insights**
+- 🎥 Creator at **Growth Lush** — content around mindset & growth
+
+I enjoy transforming **raw, messy datasets** into **clear insights and meaningful stories** using analytics, ML models, and visualizations.
+
+---
+
+## 🧰 Tools & Technologies I Use
+
+### 🖥️ Core Tools
+- **Kaggle** – datasets, notebooks, experimentation  
+- **SQL** – joins, aggregations, analytics queries  
+- **Python** – data analysis, ML pipelines, automation  
+- **C++** – programming fundamentals  
+- **Power BI** – dashboards & business storytelling  
+- **Git & GitHub** – version control & collaboration  
+
+---
+
+### 📊 Data Science & Analytics Skills
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Feature Engineering  
+- Statistical Analysis  
+- KPI & Business Metrics  
+- Data Visualization & Dashboards  
+
+**Libraries**
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+
+---
+
+### 🤖 Machine Learning & AI
+- Supervised & Unsupervised Learning  
+- Model Training, Evaluation & Tuning  
+- Scikit-learn  
+- TensorFlow  
+- Keras  
+- Deep Learning Fundamentals  
+
+---
+
+### 🧠 Currently Exploring
+- **Agentic AI & autonomous workflows**
+- End-to-end ML projects
+- Better data storytelling & visualization
+- Real-world problem framing
+
+---
+
+## ⚙️ Tech Stack Snapshot
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/nandini-singh-818b6a252">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://leetcode.com/u/nxnzz7/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-  </a>
-  <a href="https://youtube.com/@growthlush?si=bIm0cXSncWSSRMZ1">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-  <a href="https://x.com/nxnzzzz7">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="mailto:nandinisingh8600@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,mysql,cpp,git,tensorflow&theme=dark" />
 </p>
 
 ---
 
-## 🛠️ **About Me**  
-🔍 **Exploring AI, Data Science, and Everything in Between**  
-📚 **Lifelong Learner | Curious Mind | Problem Solver**  
-💡 **Still figuring it out, and that’s okay.**  
+## 📊 GitHub Activity & Stats
 
-- 🎓 **3rd Year CSE Student**, specializing (for now) in **Data Science & AI/ML**  
-- 💡 Passionate about **Competitive Programming, AI, and Open Source**  
-- 🔍 Solving **LeetCode problems** in Arrays, Recursion, and Linked Lists  
-- 🤖 **Building AI/ML projects** & refining my skills  
-- 🎥 **YouTube Creator @ Growth Lush** – Motivating people to grow  
-
----
-
-## ⚙️ **Tech Stack & Skills**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,cpp,mysql,mongodb,git&theme=dark" />
-</p>
-
-💻 **Programming:** Python, C++  
-🔬 **AI & ML:** TensorFlow, PyTorch, OpenCV  
-📊 **Data Science:** Pandas, NumPy, Matplotlib, Seaborn  
-🛠 **Databases:** MySQL, MongoDB  
-💡 **Other:** Git  
-
----
-
-## 🚀 **LeetCode & Competitive Programming**  
-🟡 **LeetCode Profile:** [nxnzz7](https://leetcode.com/u/nxnzz7/)  
-✅ **Solved Topics:** Arrays | Recursion | Linked Lists  
-📈 **Currently Improving:** Graphs | Trees | Dynamic Programming  
-
----
-
-## 🎥 **YouTube Channel - Growth Lush**  
-📺 **[Growth Lush](https://youtube.com/@growthlush?si=bIm0cXSncWSSRMZ1)** – *Helping people grow through self-improvement & motivation*  
-💡 **Topics:** Productivity | Mindset | Personal Growth  
-
----
-
-## 📊 **GitHub Activity**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandinisingh1310&show_icons=true&theme=midnight-purple&hide_border=true&icon_color=FFD700&text_color=CCCCCC&bg_color=000000" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandinisingh1310&theme=midnight-purple&hide_border=true&ring=FFD700&fire=FF4500&currStreakLabel=FFD700&background=000000" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=nandinisingh1310&show_icons=true&theme=midnight-purple&hide_border=true" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandinisingh1310&theme=midnight-purple&hide_border=true" />
 </p>
 
 ---
 
-## **🚀 My Philosophy**  
+## 🧪 How I Work (Terminal View)
 
-💡 **"You don’t have to know exactly where you’re going. Just move."**  
-🔥 **"Failure isn’t the opposite of success—it’s part of it."**  
-🌱 **"Learning never stops. Growth never ends."**  
+```bash
+> user@nandini-lab:~$ focus
+Data Cleaning | Analysis | Modeling | Visualization
 
-✨ **— Nanzzzz 🚀**  
+> user@nandini-lab:~$ tools
+Python | SQL | Power BI | ML Libraries | Git
 
----
-
-## 📫 **Let's Connect**
-📧 **Email:** [nandinisingh8600@gmail.com](mailto:nandinisingh8600@gmail.com)  
-💼 **LinkedIn:** [Nandini Singh](https://www.linkedin.com/in/nandini-singh-818b6a252)  
-🔗 **LeetCode:** [nxnzz7](https://leetcode.com/u/nxnzz7/)  
-🎥 **YouTube:** [Growth Lush](https://youtube.com/@growthlush?si=bIm0cXSncWSSRMZ1)  
-🐦 **Twitter (X):** [@nxnzzzz7](https://x.com/nxnzzzz7)  
-
----
-
-⭐ **Still learning. Still building. Still figuring it out.**  
-🚀 **Follow me for updates on my latest projects & ideas!**  
+> user@nandini-lab:~$ philosophy
+"Learn by building. Improve by reflecting."
