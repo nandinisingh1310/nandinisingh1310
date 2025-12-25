@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nandini Singh (aka Nanzzzz) 👋</h1>
-<p align="center"><strong>AI • Data Science • Analytics • Intelligent Systems</strong></p>
+<p align="center"><strong>AI • Data Science • Analytics </strong></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nandinisingh1310&label=Profile%20Visits&color=7B68EE&style=for-the-badge" />
@@ -74,15 +74,15 @@ I enjoy converting **raw data → insights → decisions**.
 
 ---
 
-## 📊 GitHub Activity & Stats (FIXED)
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandinisingh1310&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=nandinisingh1310&show_icons=true&theme=default&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandinisingh1310&theme=tokyonight&cache_seconds=1800" />
-</p>
 
 ---
 
